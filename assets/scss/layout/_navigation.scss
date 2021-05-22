@@ -1,0 +1,17 @@
+.navbar {
+    background: $white;
+
+    &__xda {
+        color: $smoky-black;
+        font-size: $medium;
+        font-family: $primary-font;
+        font-weight: $primary-font-regular;
+    }
+
+    &__list {
+        color: $smoky-black;
+        font-size: $small;
+        font-family: $secondary-font;
+        font-weight: $secondary-font-bold;
+    }
+}

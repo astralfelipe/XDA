@@ -1,0 +1,17 @@
+.newsletter {
+    background: $smoky-black;
+
+    &__encabezado {
+        color: $white;
+        font-size: $xx-large;
+        font-family: $primary-font;
+        font-weight: $primary-font-bold
+    }
+
+    &__form__correo {
+        color: $white;
+        font-size: $medium;
+        font-family: $primary-font;
+        font-weight: $primary-font-bold;
+    }
+}

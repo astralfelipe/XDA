@@ -1,0 +1,12 @@
+.footer {
+    background: $white;
+
+    &__parrafo {
+        color: $smoky-black;
+        font-size: $large;
+        font-family: $primary-font;
+        font-weight: $primary-font-bold;
+        writing-mode: vertical-rl;
+
+    }
+}

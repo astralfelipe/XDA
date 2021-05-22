@@ -1,0 +1,17 @@
+.seccion {
+
+    &__head {
+        color: $smoky-black;
+        font-size: $xxx-large;
+        font-family: $primary-font;
+        font-weight: $primary-font-bold;
+
+    }
+
+    &__cuerpo {
+        color: $granite-gray;
+        font-size: $x-small;
+        font-family: $secondary-font;
+        font-weight: $secondary-font-regular;
+    }
+}
