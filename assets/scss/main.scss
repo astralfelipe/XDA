@@ -1,5 +1,6 @@
 // Abstracts
 @import "abstracts/variables";
+@import "abstracts/mixins";
 
 // Vendors
 @import "vendor/Bootstrap4.6/bootstrap.scss";
@@ -20,9 +21,12 @@
 
 
 // Components
+@import "components/button.scss";
 
 
 // Pages
+@import "pages/index";
+@import "pages/grid_basico";
 
 
 // Themes
